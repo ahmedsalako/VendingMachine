@@ -1,0 +1,4 @@
+VendingMachine/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+*.pdb
+obj/
+bin/
